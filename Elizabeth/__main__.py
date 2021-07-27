@@ -48,21 +48,21 @@ buttons = [[InlineKeyboardButton(text=" ABOUT UNT BOT",
                                   url="https://t.me/maskedcoder7"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="☀️ADD ME TO YOUR GROUP ☀️",
+buttons = [[InlineKeyboardButton(text="☀️ADD ME TO YOUR GROUP ☀️",
                                   url="t.me/untfedbot?startgroup=true"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="SOURCE CODE 💫",
+buttons = [[InlineKeyboardButton(text="SOURCE CODE 💫",
                                   url="https://t.me/PYTHONPIRATES/41"),
              InlineKeyboardButton(text="SUPPORT GROUP ",
                                   url="https://t.me/PYTHON_PIRATES"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="ABOUT UNT AND FEDERATION",
+buttons = [[InlineKeyboardButton(text="ABOUT UNT AND FEDERATION",
                                   url="https://t.me/UNITEDNETWORKSOFTELEGRAM"),
  
 
-buttons += [[InlineKeyboardButton(text="MORE INFO",
+buttons = [[InlineKeyboardButton(text="MORE INFO",
                                   url="https://t.me/UNTFEDERATION"),
 
 
