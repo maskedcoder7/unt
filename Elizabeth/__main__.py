@@ -62,9 +62,7 @@ buttons = [[InlineKeyboardButton(text="ABOUT UNT AND FEDERATION",
                                   url="https://t.me/UNITEDNETWORKSOFTELEGRAM"),
  
 
-buttons = [[InlineKeyboardButton(text="MORE INFO",
-                                  url="https://t.me/UNTFEDERATION"),
-
+ 
 
 HELP_STRINGS = f"""
 UNT BOT FED
