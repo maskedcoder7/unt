@@ -60,9 +60,7 @@ buttons += [[InlineKeyboardButton(text="SOURCE CODE 💫",
 
 buttons += [[InlineKeyboardButton(text="ABOUT UNT AND FEDERATION",
                                   url="https://t.me/UNITEDNETWORKSOFTELEGRAM"),
-
-buttons += [[InlineKeyboardButton(text="⚡️CLOSE THE MENU⚡️",
-                                  callback_data="close_menu")]]
+ 
 
 buttons += [[InlineKeyboardButton(text="MORE INFO",
                                   url="https://t.me/UNTFEDERATION"),
