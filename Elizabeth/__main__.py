@@ -39,26 +39,26 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = f"""
-`Hi..Welcome` [🦋](https://telegra.ph/file/debaabe44781f92783315.jpg)
-`I'm`  єlízαвєth
-`I'm here to help you manage your groups.. Click Help button to find out more about how to use me to my full potential..`
+` ITS UNT FED BOT [🔥](https://telegra.ph/file/297476c0d91e6db025540.jpg) ONLY FOR FEDERATION ACTIONS YOU CAN START USING IT BY FOLLOWING THE BELOW COMMANDS WHICH YOU GET BY CLICKING THE GIVEN BUTTONS
+`UNT FED BOT 
+`I'm here to help you to make and use unt bot federations click the below buttons for more info ..`
 """
 
 buttons = [[InlineKeyboardButton(text=" HELP AND COMMANDS ❓",
                                   callback_data="help_back"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="♻️ ADD ME TO YOUR GROUP ♻️",
-                                  url="t.me/Elizabeth_TgBot?startgroup=true"),
+buttons += [[InlineKeyboardButton(text="☀️ADD ME TO YOUR GROUP ☀️",
+                                  url="t.me/untfedbot?startgroup=true"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="SOURCE CODE 💫",
-                                  url="https://t.me/MR_SHRLOCK/49"),
+                                  url="https://t.me/PYTHONPIRATES/41"),
              InlineKeyboardButton(text="SUPPORT🌳",
-                                  url="https://t.me/joinchat/oxSPzt02LkgxOTY9"),
+                                  url="https://t.me/PYTHON_PIRATES"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="🎀 CLOSE THE MENU 🎀",
+buttons += [[InlineKeyboardButton(text="⚡️CLOSE THE MENU⚡️",
                                   callback_data="close_menu")]]
 
 
