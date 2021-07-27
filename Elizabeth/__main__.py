@@ -44,8 +44,8 @@ PM_START_TEXT = f"""
 `I'm here to help you to make and use unt bot federations click the below buttons for more info ..`
 """
 
-buttons = [[InlineKeyboardButton(text=" HELP AND COMMANDS ❓",
-                                  callback_data="help_back"),
+buttons = [[InlineKeyboardButton(text=" ABOUT UNT BOT",
+                                  url="https://t.me/maskedcoder7"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="☀️ADD ME TO YOUR GROUP ☀️",
@@ -54,16 +54,22 @@ buttons += [[InlineKeyboardButton(text="☀️ADD ME TO YOUR GROUP ☀️",
 
 buttons += [[InlineKeyboardButton(text="SOURCE CODE 💫",
                                   url="https://t.me/PYTHONPIRATES/41"),
-             InlineKeyboardButton(text="SUPPORT🌳",
+             InlineKeyboardButton(text="SUPPORT GROUP ",
                                   url="https://t.me/PYTHON_PIRATES"),
 ]]
+
+buttons += [[InlineKeyboardButton(text="ABOUT UNT AND FEDERATION",
+                                  url="https://t.me/UNITEDNETWORKSOFTELEGRAM"),
 
 buttons += [[InlineKeyboardButton(text="⚡️CLOSE THE MENU⚡️",
                                   callback_data="close_menu")]]
 
+buttons += [[InlineKeyboardButton(text="MORE INFO",
+                                  url="https://t.me/UNTFEDERATION"),
+
 
 HELP_STRINGS = f"""
-`Hi.. I'm` єlízαвєth[🦋](https://telegra.ph/file/54ed9e0d6eef2cc730f12.jpg)
+UNT BOT FED
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
