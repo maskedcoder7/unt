@@ -64,7 +64,7 @@ buttons = [[InlineKeyboardButton(text="ABOUT UNT AND FEDERATION",
 
  
 
-HELP_STRINGS = f"""
+HELP_STRINGS f"""
 UNT BOT FED
 `Click on the buttons below to get documentation about specific modules..`"""
 
